@@ -1,0 +1,69 @@
+body{
+    background-image: url("გალაკტიონ-ტაბიძე.jpg");
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+h1{
+    color: darksalmon;
+}
+
+p{
+    color:rgb(213, 76, 218);
+    font-size: 18px;
+}
+
+h2{
+    color: crimson;
+}
+
+table, td, th{
+    border: 10px solid darkblue;
+    border-collapse: collapse;
+}
+
+tr:nth-child(even){
+    background-color: white;
+    color: black;
+}
+
+tr:nth-child(odd){
+    background-color: black;
+    color: white;
+}
+
+#a1{
+    font-size: large;
+    color: blue;
+    text-decoration: none;
+}
+
+#a1:hover{
+    font-size: x-large;
+    transition: 50ms;
+    text-decoration: underline solid red;
+    color: red;
+}
+
+#a1:visited{
+    color: black;
+    text-decoration: overline solid black;
+}
+
+#a2{
+    font-size: large;
+    text-decoration: solid blue;
+    text-decoration: none;
+}
+
+#a2:hover{
+    font-size: x-large;
+    transition: 50ms;
+    text-decoration: underline solid red;
+    color: red
+}
+
+#a2:visited{
+    color: black;
+    text-decoration: overline solid black;
+}

@@ -1,0 +1,56 @@
+body{
+    background-image: url("გალაკტიონი.jpg");
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+hr{
+    background-color: crimson;
+    height: 5px;
+}
+
+p{
+    font-size: xx-large;
+    
+}
+
+#a1{
+    font-size: large;
+    color: blue;
+    text-decoration: none;
+}
+
+#a1:hover{
+    font-size: x-large;
+    transition: 50ms;
+    text-decoration: underline solid red;
+    color: red;
+}
+
+#a1:visited{
+    color: blueviolet;
+    text-decoration: overline solid blueviolet;
+}
+
+#a2{
+    font-size: large;
+    text-decoration: solid red;
+    text-decoration: none;
+}
+
+#a2:hover{
+    font-size: x-large;
+    transition: 50ms;
+    text-decoration: underline solid red;
+    color: red;
+}
+
+#a2:visited{
+    color: blueviolet;
+    text-decoration: overline solid blueviolet;
+}
