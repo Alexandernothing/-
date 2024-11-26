@@ -67,3 +67,21 @@ tr:nth-child(odd){
     color: black;
     text-decoration: overline solid black;
 }
+
+#a3{
+    font-size: large;
+    text-decoration: solid blue;
+    text-decoration: none;
+}
+
+#a3:hover{
+    font-size: x-large;
+    transition: 50ms;
+    text-decoration: underline solid red;
+    color: red;
+}
+
+#a3:visited{
+    color: black;
+    text-decoration: overline solid black;
+}

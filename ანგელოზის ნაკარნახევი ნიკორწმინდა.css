@@ -1,16 +1,18 @@
 body{
-    background-image: url("ნიკორწმინდა.jpg");
+    background-image: url("angel.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-p{
-    color:rgb(33, 119, 134)
+h1{
+    color:rgba(194, 197, 197, 0.512);
 }
 
-h1{
-    color: brown;
+p{
+    color: rgba(0, 0, 0, 0.801);
+    size: 20px;
 }
+
 
 #a1{
     font-size: large;
@@ -26,13 +28,13 @@ h1{
 }
 
 #a1:visited{
-    color: whitesmoke;
-    text-decoration: overline solid whitesmoke;
+    color: blueviolet;
+    text-decoration: overline solid blueviolet;
 }
 
 #a2{
     font-size: large;
-    text-decoration: solid blue;
+    text-decoration: solid red;
     text-decoration: none;
 }
 
@@ -40,17 +42,17 @@ h1{
     font-size: x-large;
     transition: 50ms;
     text-decoration: underline solid red;
-    color: red
+    color: red;
 }
 
 #a2:visited{
-    color: whitesmoke;
-    text-decoration: overline solid whitesmoke;
+    color: blueviolet;
+    text-decoration: overline solid blueviolet;
 }
 
 #a3{
     font-size: large;
-    text-decoration: solid blue;
+    text-decoration: solid red;
     text-decoration: none;
 }
 
@@ -62,6 +64,6 @@ h1{
 }
 
 #a3:visited{
-    color: whitesmoke;
-    text-decoration: overline solid whitesmoke;
+    color: blueviolet;
+    text-decoration: overline solid blueviolet;
 }
